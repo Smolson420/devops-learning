@@ -9,3 +9,5 @@ My personal environment for learning DevOps.
 - Docker
 - Ansible
 - CI/CD
+## Current progress
+- Linux basics completed
