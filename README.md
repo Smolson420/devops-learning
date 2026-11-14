@@ -1,6 +1,6 @@
 # DevOps Learning Lab
 
-My personal environment for learning DevOps.
+My personal environment for learning Linux and DevOps engineering.
 
 ## Technologies
 - Linux
